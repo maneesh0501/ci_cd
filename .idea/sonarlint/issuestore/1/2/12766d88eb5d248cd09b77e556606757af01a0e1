@@ -1,0 +1,5 @@
+
+Dkotlin:S6615	" Remove this useless initializer.(ÓÍôûÿÿÿÿ8î¸ÌÚ1
+>kotlin:S6615" Remove this useless initializer.(½˜¡(8ï¸ÌÚ1
+Jkotlin:S1481*"+Remove this unused "result" local variable.(·ëßî8ô¸ÌÚ1
+kotlin:S6526U"pReplace this abstract class with an interface, or add function implementations or state properties to the class.(Å—Ú´8ö¸ÌÚ1

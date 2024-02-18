@@ -1,0 +1,10 @@
+
+Bkotlin:S125"Remove this commented out code.(ä²ï—ûÿÿÿÿ8…¦¸åÛ1
+Skotlin:S1481"4Remove this unused "customObervable" local variable.(Ø’³÷8¦¸åÛ1
+Skotlin:S1481"/Remove this unused "iterateWay" local variable.(ò½Úµþÿÿÿÿ8¦¸åÛ1
+Ykotlin:S1481"5Remove this unused "numberObservable" local variable.(Î‰±¿üÿÿÿÿ8¦¸åÛ1
+>kotlin:S1128"Remove this unused import.(Ôê³¨ÿÿÿÿÿ8¥¦¸åÛ1
+>kotlin:S1128"Remove this unused import.(‡žŒöøÿÿÿÿ8¦¦¸åÛ1
+>kotlin:S1128"Remove this unused import.(Ó¸Ñÿÿÿÿÿ8¦¦¸åÛ1
+>kotlin:S1128	"Remove this unused import.(£ñ¹¸ûÿÿÿÿ8¦¦¸åÛ1
+rkotlin:S1192"NDefine a constant instead of duplicating this literal "Hello Message" 5 times.(‘–øñúÿÿÿÿ8¨¦¸åÛ1
